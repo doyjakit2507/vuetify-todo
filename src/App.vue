@@ -17,10 +17,10 @@
           mb-4>
         </v-avatar>
         <div class="white--text text-subtitle-1 font-weight-bold">
-          Danny Ja
+          YoddddJa
         </div>
         <div class="white--text text-subtitle-1">
-          dayny__connell
+          Yoddd naja
         </div>
       </v-img>
 
@@ -69,7 +69,7 @@
           <search />
         </v-row>
         <v-row>
-          <v-app-bar-title class="text-h4 ml-4">
+          <v-app-bar-title class="text-h5 ml-4">
             <!-- {{ appTitle }} -->
               {{ $store.state.appTitle }}
             </v-app-bar-title>
